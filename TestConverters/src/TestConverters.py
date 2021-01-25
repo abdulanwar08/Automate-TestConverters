@@ -14,7 +14,7 @@ from util.htmlstyling import highlight_color, html
 from util.properties import getconfigprop
 
 
-#Initiate Logs
+##Initiate Logs
 LOG = Logger()
 LOG.info("Test Execution is Started...")
  
